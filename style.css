@@ -1,0 +1,22 @@
+.text-black
+{
+color:black;
+}
+.text-blue
+{
+color:blue;
+}
+.text-red
+{
+color:red;
+}
+
+.news article h2 {
+color:red;
+}
+
+.news > article > h2 {
+
+color^blue;
+
+}
